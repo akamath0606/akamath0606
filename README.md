@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akamath0606
 - 👀 I’m interested in object-oriented software development
-- 🌱 I’m currently learning system and data manipulation on UNIX systems
+- 🌱 I’m currently learning algorithm analysis and search-based artificial intelligence agent models
 - 📫 How to reach me: email me at akamath0606@gmail.com
 
 <!---
